@@ -1,4 +1,4 @@
-# API CON NODE JS SIN FRAMEWORKS
+# API CON NODE JS SIN FRAMEWORKS | EDteam
 ### Pasos para usarlo:
 #### 1) en tu terminal
         git clone https://github.com/kevinguzman420/api-just-with-node-edteam.git
